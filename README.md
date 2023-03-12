@@ -17,7 +17,7 @@ In the <NoSQL_setup_starter.ipynb> file:
 
 Part 3: Exploratory Analysis
 
-In the <NoSQL_analysis_starter.ipynb>
+In the <NoSQL_analysis_starter.ipynb> file
 
 
     Question 1. 41 establishments with a hygiene score equal to 20.
@@ -28,6 +28,8 @@ In the <NoSQL_analysis_starter.ipynb>
 
     Question 3. The top 5 establishments, with a rating Value of 5, sorted by lowest hygiene score 
                 and within 0.01 degree of the Penang Flavours restaurant.
+                The DataFrame initially had the hygiene score and latitude and longitude as dictionary key:value.
+                Changed the DataFrame to just display the values, separating the latitiude and longitude.
                 Converted to a pandas DataFrame.
 
     Question 4. 55 Local Authorities, Hygiene score 0.
@@ -40,3 +42,7 @@ In the <NoSQL_analysis_starter.ipynb>
                 The first 5 rows match data provide on bootcamp spot.
 
 I have also done my best to comment concisely and use relevant notes that other developers can understand.
+
+Enjoy marking this assignment.
+Thank you.
+Sandra
